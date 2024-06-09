@@ -1,0 +1,82 @@
+1. write a python program to find the best of 2 test average marks out of 3 tests marks accepted from the user
+2. develop a python program to convert a binary number into decimal, octal and hexadecimal numbers using functions
+3. define a function Fn as Fn = Fn-1 + Fn-2. write a python program that accepts a value for N where N>0 as input and pass this value to the function. Display the suitable error for input value is not followed
+4. write a python program to find the string similarity between two given strings
+5. write a pyton program that accepts a sentence and finds the number of words, digits, uppercase letters and lowercase letters
+
+Patterns:
+    steps to solve:
+        1. see the number of rows and apply a loop for it
+        2. see the number of columns and apply a loop
+        3. check for any relationship between rows and columns
+        4. print the required character
+        5. check for where to print spaces
+1. *
+   * *
+   * * *
+   * * * *
+   * * * * *
+
+2.         *
+         * *
+       * * *
+     * * * *
+   * * * * *
+
+3. * * * * *
+     * * * *
+       * * *
+         * *
+           *
+
+4. * * * * *
+   * * * *
+   * * *
+   * *
+   *
+
+ 5. * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+    * * * * *
+
+ 6. 1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+
+ 7. 1
+    2 2
+    3 3 3
+    4 4 4 4
+    5 5 5 5 5
+
+ 8. * * * * *
+    *       *
+    *       *
+    *       *
+    * * * * *
+
+ 9. * * * * *
+    * *   * *
+    *   *   *
+    * *   * *
+    * * * * *
+
+10. 1  2  3  4
+    5  6  7  8
+    9  10 11 12
+    13 14 15 16
+
+11. A A A A A
+    A A A A A
+    A A A A A
+    A A A A A
+    A A A A A
+    (take user input for what character to be printed)
+
+----
+1. write a program to read a string from user and implement the logic to remove the characters
+   which are at the odd no's of the index
