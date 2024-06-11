@@ -1,0 +1,10 @@
+1. count the number of occurences of an item in the list
+2. write a program to count the unique value in a list
+3. find out the duplicate removal list product using list comprehension
+4. extract elements with a freq greater than k
+5. write a program to test if a list contains elements in the range
+6. write a program to demonstrate union and intersection of Sets
+7. write a program to merge to sorted list into a single sorted list
+8. find the largest subarray sum of a given list
+9. write a program to partition a list around the given value such that all elements less than the given value come before it and all elements greater than the given value comes after it
+10. find a peak element in a list of integers. peak element is an element that is greater than or equal to it's neighbors
