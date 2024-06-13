@@ -1,0 +1,14 @@
+add()
+update()
+remove() throws error if element is not there
+discard() doesn't throw error if element is not there
+clear() 
+del()
+pop()
+union() or |
+intersection() or &
+difference() or -
+symmetric_difference() or ^
+intersection_update()
+difference_update()
+symmetric_difference_update()
